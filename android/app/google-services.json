@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "893530427598",
+    "firebase_url": "https://aura-project-8dc5b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aura-project-8dc5b",
+    "storage_bucket": "aura-project-8dc5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893530427598:android:304aa5f4ffc455a51a409f",
+        "android_client_info": {
+          "package_name": "com.example.aura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhCzZlyJWqO6K3Wgb4xv35FB0mY0bPrZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893530427598:android:4461e4fe9fc3c3ff1a409f",
+        "android_client_info": {
+          "package_name": "com.example.auraa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhCzZlyJWqO6K3Wgb4xv35FB0mY0bPrZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
