@@ -29,8 +29,8 @@
 
 #define API_KEY "AIzaSyDvV3dyiZ18SKuHWSrP7u-7rM2cIWR7liE"
 #define FIREBASE_PROJECT_ID "aura-project-8dc5b"
-#define USER_EMAIL "geemonfelix@gmail.com"
-#define USER_PASSWORD "milesmorales@2004"
+#define USER_EMAIL "********"
+#define USER_PASSWORD "*********"
 
 // -----------------------------------------------------------------
 // 3. PIN DEFINITIONS & CONSTANTS
